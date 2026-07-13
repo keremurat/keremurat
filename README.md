@@ -1,6 +1,6 @@
 # Hello 👋, I'm Kerem Murat
 
-Ben Kerem Murat. 19 yaşındayım Ankara Üniversitesi Electronic Commerce and Management 2. sınıf öğrencisiyim. Jr Developer olarak eistatistik.com çatısı altındayım. Frontdend ve backend tarafında aktif olarak projeler geliştirmekteyim.
+My name is Kerem Murat. I am 19 years old and a second-year student in Electronic Commerce and Management at Ankara University. I work as a Junior Developer at eistatistik.com. I actively develop projects on both frontend and backend.
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/kerem-murat-759b47185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.keremmurat.com/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/keremdevp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
